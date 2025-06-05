@@ -1,7 +1,6 @@
 ### Hi there My Name is Mayte Otavalo 👋
        H-e-l-l-o- W-o-r-l-d
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
 - 🏫 I’m currently a student and am doing computer science.
 - ⚡ I just saw a C++ course!
