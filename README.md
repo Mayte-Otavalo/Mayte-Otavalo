@@ -1,5 +1,5 @@
 ### Hi there My Name is Mayte Otavalo 👋
-       H-e-l-l-o- W-o-r-l-d
+       H-e-l-l-o W-o-r-l-d
 
 
 - 🏫 I’m currently a student and am doing computer science.
