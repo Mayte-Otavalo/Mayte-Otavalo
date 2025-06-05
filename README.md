@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://dev.to/shamimsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamimsikder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shamimsikder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.sikder.537" height="30" width="40" /></a>
+<a href="(https://www.facebook.com/)" target="blank"><img align="center" src=["https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"](https://www.facebook.com/) alt="shamim.sikder.537" height="30" width="40" /></a>
 </p>
 
 
