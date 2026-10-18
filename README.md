@@ -1,26 +1,34 @@
-### Hi there My Name is Mayte Otavalo 👋
-       H-e-l-l-o W-o-r-l-d
 
+# Hi, I'm Mayte Otavalo 👋
 
-- 🏫 I’m currently a student and am doing computer science.
-- ⚡ I just saw a C++ course!
-- 📫 I'm excited to learn about artificial intelligence and computer security.
+💻 **Computer Science Student | Software Development | Networks & Cybersecurity**
 
-**Languages and Tools:**  
+I'm a Computer Science student interested in building reliable software, understanding computer networks, and learning how to secure digital systems.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+I enjoy exploring technical challenges, learning new technologies, and documenting what I build.
 
+## 🚀 Areas of Interest
 
- 
-<div align="center">
+- 🌐 Computer Networks and Network Infrastructure
+- 🔐 Cybersecurity and Secure Development
+- 🖥️ Software Engineering and Programming
+- 🔄 Distributed Systems
+- 🤖 Automation and Artificial Intelligence
 
-### Welcome to my repository❤️ !
-</div>
+## 🛠️ Technologies
 
-___________________________________________________________________________________________________________________________
+**Languages:** Python, C++, SQL 
 
-Last Edited on: 05/06/2026
+## 🎯 Current Goals
+- Build well-documented, reproducible projects.
+- Practice code reviews and automated testing.
+- Develop practical skills in networking and cybersecurity.
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayte-otavalo-074703280/)
+- 🐙 [GitHub](https://github.com/Mayte-Otavalo)
+
+---
+
+*Learning by building, testing, documenting, and improving.*
